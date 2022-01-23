@@ -1,8 +1,7 @@
 //简易餐厅管理系统
 //Li Yinxuan
 //代码参考自《C程序设计（第5版）学习辅导》，谭浩强，清华大学出版社
-//代码中的"scanf_s"是用于Visual Studio中的输入函数，若在其它软件运行时报错将其改为"scanf"即可
-
+//代码中的"scanf_s"用于更正Visual Studio警告“C6031：已忽略返回值：调用的函数可能会返回意外值”。
 #include <stdio.h>
 #include <string.h>
 #define MaxSize 20
