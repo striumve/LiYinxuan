@@ -1,12 +1,8 @@
->To share my program files with you is my pleasure. 
 # About Files
-Li Yinxuan's own little games, (maybe silly)ideas, learning notes and so on. 
-The files were written by `HTML`, `CSS`, `JavaScript`, `C`, etc. 
+闲得慌做的小玩意儿
 
-If there's any wrong places in the files that need to correct, please __tell me__. 
-I'll be glad to follow your right suggestions. 
+`HTML`, `CSS`, `JavaScript`, `C`
+
+代码使用Visual Studio Code及Visual Studio Community 2022(以前用的是2019版) 编写。
 # About Myself 
-My name is Li Yinxuan. I'm a sunny boy. 
-I'm a junior school student. I'm from China. I was born in July 27th, 2008, in Dehua, the world ceramics city. 
-I'm a good student at school.
-I study hard, and I love piano and computer technology a lot. 
+没什么好说的。
